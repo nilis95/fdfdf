@@ -1,14 +1,14 @@
 ﻿l_english:
 ###### Research #######
-research_airdoctrine_generic:0 "Will increase our knowledge of arial combat."
+research_airdoctrine_generic:0 "우리의 군사적 전투에 대한 지식을 증가시킬것이다."
 #######################
 
 ###### Resources ######
-PRODUCTION_MATERIALS_GRAIN:0 "Grain"
+PRODUCTION_MATERIALS_GRAIN:0 "곡물"
 #######################
 
 ######## FOCUS ########
-GER_dismantle.tt:0 "Dismantles the Maginot Line and the series of fortifications along the Belgian border.\n"
-GER_atlantic_wall.tt:0 "Constructs a series of fortifications from France to Norway (if owned) for coastal defense."
+GER_dismantle.tt:0 "벨기에 국경을 따라 마지노 선과 요새들을 해체한다.\n"
+GER_atlantic_wall.tt:0 "해안 방어를 위해 프랑스에서 노르웨이까지 요새를 건설한다."
 #######################
-franz_dead:0 "Franz Ferdinand has died"
+franz_dead:0 "프란츠 페르디난트 대공이 죽었다."
